@@ -58,5 +58,15 @@
     "system": true,
     "defaultField": false,
     "modelId": "testtt"
+  },
+  {
+    "name": "qweqwe",
+    "description": "qwe",
+    "fieldId": "qweqwe",
+    "modelId": "testtt",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
