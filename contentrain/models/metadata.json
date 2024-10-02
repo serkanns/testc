@@ -1,0 +1,10 @@
+[
+  {
+    "name": "testtt",
+    "modelId": "testtt",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  }
+]
